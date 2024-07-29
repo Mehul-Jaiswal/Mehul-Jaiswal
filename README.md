@@ -6,13 +6,14 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mehul-jaiswal-0104b7221/) or via email at [mehul@jaiswal.in](mailto:mehul@jaiswal.in)
 
 ---
-
+<!-- This section shows my GitHub statistics
 ### 📊 GitHub Statistics
 
 ![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehul-Jaiswal&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-Jaiswal&layout=compact&theme=radical)
 
 ---
+--->
 
 ### 🛠️ Technologies & Tools
 
