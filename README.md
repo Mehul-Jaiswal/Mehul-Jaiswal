@@ -10,8 +10,8 @@
 
 ### 📊 GitHub Statistics
 
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehul-Jaiswal&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-Jaiswal&layout=compact&theme=radical&count_private=true)
+![Mehul's GitHub Stats](https://github-readme-stats-eosin-eight-21.vercel.app/api?username=Mehul-Jaiswal&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats-eosin-eight-21.vercel.app/api/top-langs/?username=Mehul-Jaiswal&layout=compact&theme=radical&count_private=true)
 
 ---
 
