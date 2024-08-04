@@ -1,20 +1,19 @@
 ### 👋 Hi, I’m Mehul Jaiswal
 
-- 👀 I’m Senior at **UC Berkeley** majoring **Computer Science**
+- 👀 I’m a Senior at **UC Berkeley** majoring in **Computer Science**
 - 👀 I’m interested in **AI/ML**
 - 🌱 Knowledge in **Database** and **Algorithm**
 - 💞️ I’m looking to collaborate on **Python, AI, and ML projects**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mehul-jaiswal-0104b7221/) or via email at [mehul@jaiswal.in](mailto:mehul@jaiswal.in)
 
 ---
-<!-- This section shows my GitHub statistics
+
 ### 📊 GitHub Statistics
 
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehul-Jaiswal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-Jaiswal&layout=compact&theme=radical)
+![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehul-Jaiswal&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-Jaiswal&layout=compact&theme=radical&count_private=true)
 
 ---
---->
 
 ### 🛠️ Technologies & Tools
 
