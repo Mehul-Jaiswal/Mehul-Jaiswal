@@ -10,8 +10,8 @@
 
 ### 📊 GitHub Statistics
 
-![Mehul's GitHub Stats](https://github-readme-stats-eosin-eight-21.vercel.app/api?username=Mehul-Jaiswal&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats-eosin-eight-21.vercel.app/api/top-langs/?username=Mehul-Jaiswal&layout=compact&theme=radical&count_private=true)
+![Mehul's GitHub Stats](https://github-readme-stats-git-master-mehul-jaiswals-projects.vercel.app/api?username=Mehul-Jaiswal&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats-git-master-mehul-jaiswals-projects.vercel.app/api/top-langs/?username=Mehul-Jaiswal&layout=compact&theme=radical&count_private=true)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:STARTo -->
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
