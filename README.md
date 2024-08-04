@@ -40,4 +40,4 @@
 
 ### 📈 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mehul-Jaiswal&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mehul-Jaiswal&theme=radical)](https://github-readme-stats-git-master-mehul-jaiswals-projects.vercel.app/api?username=Mehul-Jaiswal&theme=radical)
