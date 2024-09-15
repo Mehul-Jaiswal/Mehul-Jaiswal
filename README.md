@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Mehul Jaiswal
 
-- 👀 I’m a Senior at **UC Berkeley** majoring in **Computer Science**
+- 👀 I’m a Student at **UC Berkeley** majoring in **Computer Science**
 - 👀 I’m interested in **AI/ML**
 - 🌱 Knowledge in **Database** and **Algorithm**
 - 💞️ I’m looking to collaborate on **Python, AI, and ML projects**
